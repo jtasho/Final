@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814424389314",
+    "project_id": "ifuckinghatefirebase",
+    "storage_bucket": "ifuckinghatefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814424389314:android:9a9aa0f74670d71930ed5b",
+        "android_client_info": {
+          "package_name": "com.example.travel_thai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCesrqojsRWMQh-xkT-j65Xmi9Jgkl3ZUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
